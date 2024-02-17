@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0,Channel 1
+http://194.90.32.59:80/session/cffb51cc-cdd0-11ee-b2d9-000c294ae558$h1.0$default/rkz79m/playout02/chunklist_b1328000.m3u8?smil_profile=mobile
+#EXTINF:0,Channel 2
+http://stm-live-nta-6a.cellcomtvcdn.tv:80/session/47c44242-cdd4-11ee-a1b8-000c29edd9ce$h1.0$default/rkz79m/ngx/910/mob/hrr_starsnew/chunklist_b1596000.m3u8?smil_profile=fiber
